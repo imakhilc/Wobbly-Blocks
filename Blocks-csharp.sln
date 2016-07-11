@@ -1,0 +1,46 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{04C4F9F5-95C4-F21D-1DE6-5EB07056C15A}") = "Blocks", "Assembly-CSharp-vs.csproj", "{D1CCD7AC-735F-AAFE-9FD7-48051C35262C}"
+EndProject
+Project("{04C4F9F5-95C4-F21D-1DE6-5EB07056C15A}") = "Blocks", "Assembly-CSharp-Editor-vs.csproj", "{3C95A808-5149-5633-724C-DB5138E94312}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1CCD7AC-735F-AAFE-9FD7-48051C35262C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1CCD7AC-735F-AAFE-9FD7-48051C35262C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1CCD7AC-735F-AAFE-9FD7-48051C35262C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1CCD7AC-735F-AAFE-9FD7-48051C35262C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C95A808-5149-5633-724C-DB5138E94312}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C95A808-5149-5633-724C-DB5138E94312}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C95A808-5149-5633-724C-DB5138E94312}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C95A808-5149-5633-724C-DB5138E94312}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																																																																																																																																																																																				GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.IndentWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
